@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0342-power-of-four) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
