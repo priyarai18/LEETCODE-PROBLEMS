@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,4 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
