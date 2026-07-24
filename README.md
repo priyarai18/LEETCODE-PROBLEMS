@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
