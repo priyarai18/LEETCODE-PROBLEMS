@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -131,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
