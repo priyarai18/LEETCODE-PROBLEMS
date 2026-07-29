@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
