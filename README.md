@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
+| [0997-find-the-town-judge](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0997-find-the-town-judge) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0997-find-the-town-judge](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+| [0997-find-the-town-judge](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
