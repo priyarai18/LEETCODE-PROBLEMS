@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0577-employee-bonus) |
+| [1280-students-and-examinations](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
