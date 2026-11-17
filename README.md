@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/2235-add-two-integers) |
