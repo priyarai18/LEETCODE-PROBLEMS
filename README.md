@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0997-find-the-town-judge) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
