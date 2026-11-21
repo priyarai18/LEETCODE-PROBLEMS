@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyarai18/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
